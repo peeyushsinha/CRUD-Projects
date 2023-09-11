@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Salman Sheikh",
+      "username": "user2 ",
+      "email": "Sheikh@example.com",
+      "phone": "123-456-7872",
+      "website": "www.user2.com"
+    },
+    {
+      "id": 3,
+      "name": "abdulaha khan",
+      "username": "user3",
+      "email": "khan@example.com",
+      "phone": "123-456-7893",
+      "website": "www.user3.com"
+    },
+    {
+      "id": 4,
+      "name": "Ahmed Nishar",
+      "username": "user4",
+      "email": "Ahmed@example.com",
+      "phone": "123-456-7894",
+      "website": "www.user4.com"
+    },
+    {
+      "id": 5,
+      "name": "Guddu Muslim",
+      "username": "user5",
+      "email": "Gudduharami@example.com",
+      "phone": "123-456-7895",
+      "website": "www.user5.com"
+    },
+    {
+      "id": 6,
+      "name": "Hijab ahmed",
+      "username": "user6",
+      "email": "ahmed@example.com",
+      "phone": "123-456-7896",
+      "website": "www.user6.com"
+    },
+    {
+      "id": 7,
+      "name": "JINNA sunni",
+      "username": "user7",
+      "email": "sunni@example.com",
+      "phone": "123-456-7897",
+      "website": "www.user7.com"
+    },
+    {
+      "id": 8,
+      "name": "Meer baba",
+      "username": "user8",
+      "email": "babaUrf45@example.com",
+      "phone": "123-456-7898",
+      "website": "www.user8.com"
+    },
+    {
+      "id": 9,
+      "name": "Alif laila",
+      "username": "user9",
+      "email": "alif9@example.com",
+      "phone": "123-456-7899",
+      "website": "www.user9.com"
+    },
+    {
+      "id": 10,
+      "name": "dady khan",
+      "username": "user10",
+      "email": "khani0@example.com",
+      "phone": "123-456-78910",
+      "website": "www.user10.com"
+    },
+    {
+      "name": "Miza khaleel",
+      "email": "khaleel8@gmail.com",
+      "phone": "9140889056",
+      "id": 11
+    },
+    {
+      "name": "mushraff randi",
+      "email": "musru@gmail.com",
+      "phone": "67677576757",
+      "id": 12
+    }
+  ]
+}
